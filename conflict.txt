@@ -1,1 +1,1 @@
-Conflicting line from master
+Final version after resolving conflict.
